@@ -1,0 +1,1672 @@
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+WEEK 1 
+1. Discuss success and failure stories 
+2. Presentation of collected case studies 
+a) The Ariane 5 Disaster 
+3. Ariane 5. On June 4th, 1996, the very first Ariane 5 rocket ignited its engines and began 
+speeding away from the coast of French Guiana. ... 
+4. What went wrong? The fault was quickly identified as a software bug in 
+the rocket's Inertial Reference System. ... 
+5. Not enough space to reach space. 
+The Ariane 5 Disaster 
+Software Engineering principles & Practices Lab Manual 
+Page 1 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+b) The Patriot Missile Failure 
+The Patriot Missile Failure 
+c) Mars pathfinder 
+➢ On September 23, 1999, NASA lost the $125 million Mars orbiter spacecraft because 
+one engineering team used metric units while another used English units leading to a 
+navigation fiasco, causing it to burn in the atmosphere. 
+Mars pathfinder 
+➢ Design flaws or inaccurate modeling Mars pathfinder mission landed flawlessly on the 
+Martial surface on July 4, However, later its communication failed due to a design flaw 
+in the real-time embedded software kernel VxWorks. 
+➢ The problem was later diagnosed to be caused due to priority inversion, when a medium 
+priority task could preempt a high priority one. 
+d). FBI Virtual Case File (or VCF) 
+➢ Virtual Case File (or VCF) was a software application developed by the United States 
+Federal Bureau of Investigation (FBI) between 2000 and 2005. 
+Software Engineering principles & Practices Lab Manual 
+Page 2 
+COMPUTER SCIENCE & DEPT 
+M.L.Bharatesh Polytechnic 
+➢ The project was officially abandoned in April 2005, while still in development stage and 
+cost the federal government nearly $170 million. 
+➢ In 2006, the Washington Post wrote "In a 318-page report, completed in January 2005 
+and obtained by The Post under the Freedom of Information Act, [the Aerospace 
+Corporation] said the SAIC software was incomplete, inadequate and so poorly designed 
+that it would be essentially unusable under real-world conditions. 
+➢ Even in rudimentary tests, the system did not comply with basic requirements, the 
+report said. 
+➢ It did not include network-management or archiving systems—a failing that would put 
+crucial law enforcement and national security data at risk" 
+Reasons for software failure: 
+➢ Lack of user participation 
+➢ Changing requirements 
+➢ Unrealistic or unarticulated project goals 
+➢ Inaccurate estimates of needed resources 
+➢ Badly defined system requirements 
+➢ Poor reporting of the project’s status 
+➢ Lack of resources 
+➢ Unmanaged risks 
+➢ Poor communication among customers, developers, and users 
+➢ Use of immature technology 
+➢ Inability to handle the project’s complexity 
+➢ Sloppy development practices 
+➢ Poor Project Management 
+➢ Stakeholder politics 
+➢ Lack of Stakeholder involvement 
+➢ Commercial pressures 
+3. Importance of ethical practices: 
+➢ code of ethics specifies various rules and regulations of conduct that the members of 
+the team must adhere to. 
+➢ It sets forth the values, principles, and standards that guide the testers to perform their 
+tasks appropriately and helps them use the information they have in an ethical and 
+appropriate manner. 
+➢ Code of ethics, in short defines the acceptance of responsibility by the software engineer 
+, while keeping the best interest of their clients as priority. 
+Software Engineering principles & Practices Lab Manual 
+Page 3 
+COMPUTER SCIENCE & DEPT 
+M.L.Bharatesh Polytechnic 
+➢ Moreover, they should consider the safety and welfare of the public and the client as 
+well as should adhere to the following code of ethics to ensure the works credibility. 
+The various code of ethics are: 
+➢ Public: During the process of software development and testing, the public interest and 
+benefit should be considered before corporate and personal gain. They should 
+consistently act in the interest of the public. 
+➢ Client & Employer: Apart from public interest, the testers should consider the interest 
+of their client and employer while conducting tests on the software. They should act 
+according to the requirements of their clients and should fulfill all their needs. 
+➢ Product: The most important factor that needs consideration during the process of 
+software testing is the product itself. 
+➢ The testers should perform their tasks while ensuring that the deliverable is of best 
+quality and has exceptional effectiveness. Also, make sure that all deliverables on the 
+product are in compliance with the stated standards. 
+➢ Judgement: The testes should maintain integrity and independence while making 
+judgments regarding the process of testing or any other aspects related to it. 
+➢ Profession: The team of testers should follow the set f values, principles, and standards 
+and advance the integrity of their profession. 
+➢ Management: Here, the team managers and leads should take the responsibility and 
+ethical steps to manage the process of software testing, development, and 
+maintenance. This will help them avoid any confusion as well as allow them to test each 
+component of the software accurately. 
+Why is Code of Ethics Important? 
+➢ It protects the interests of consumers and offers them assurance that they are not being 
+misguided or misled by false promises and advertisements. 
+➢ Helps firms and organizations in obeying the law and treating people honestly and fairly. 
+➢ Clarifies organization’s missions, values, and principles. 
+➢ Promotes employment ethics, such as security, promotions, health and safe working 
+condition, etc. 
+➢ Allows one to create a professional environment wherein ethical behavior is a norm. 
+➢ Serves as a guide or reminder of how to perform tasks as well as the way one should act 
+in a particular situation. 
+➢ Can indicate that individuals are seriously concerned about responsible and professional 
+conduct. 
+➢ It is a central guide and reference for employers. 
+➢ Prevents unjust treatment. 
+➢ Brings out best in people as well as high standards in organizations. 
+Software Engineering principles & Practices Lab Manual 
+Page 4 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+3. Enact the importance of ethical practices 
+Ethics provide the moral compass by which we live our lives and make decisions – 
+'doing the right thing' because it’s the right thing to do. 
+The way we make decisions is important for organization's because the wrong 
+decisions can have a significant impact on people’s lives and the reputation of 
+organizations. So, when we make decisions based on good principles, and live by 
+good values, we can improve the lives of others and the experiences they have at 
+work. 
+Ethical practice standards 
+Each standard progresses through four levels of impact; 
+(1) Foundation level 
+At this level you will: 
+• Take responsibility for your actions 
+• Act consistently with relevant regulation and law 
+• Handle personal data and information in a professional manner 
+• Demonstrate honesty in dealings with others 
+(2) Associate level 
+At this level you will: 
+• Make responsible choices about your work, applying professional principles 
+and values 
+• Consider the purpose and implications of actions, decisions and people 
+practices for all stakeholders 
+• Provide explanations and reasons for the choices you make and the advice 
+you provide 
+Software Engineering principles & Practices Lab Manual 
+Page 5 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+(3) Chartered Member level 
+At this level you will: 
+• Coach and influence managers and leaders to consider the implications of 
+their decisions on stakeholders 
+• Challenge decisions and actions which are not ethical, explaining the 
+organization risks 
+• Encourage transparency in decision-making and communication where 
+possible 
+(4) Chartered Fellow level 
+At this level you will: 
+• Make responsible decisions by balancing different ethical perspectives, and 
+shape how ethics inform wider decision-making and governance 
+• Coach and influence senior leaders to consider the ethical impact of their 
+decisions in the short and long-term 
+• Take a visible lead in solving ethical dilemmas, considering how they will 
+play out beyond the organization 
+Software Engineering principles & Practices Lab Manual 
+Page 6 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+WEEK 2 
+1: Case study to understand the SDLC 
+Abstract: 
+A software development life cycle is commonly used software development method in 
+software engineering, or SDLC is a process used to develop software. All the SDLC models 
+software should be developed and delivered slow and it take time to implement software. 
+In order to overcome this problem different SDLC model is proposed by modifying the 
+traditional incremental SDLC model. This paper presents comparative analysis of the two 
+different process models in SDLC which are proposed in literature to achieve development 
+and delivery of software. All the two process models compared Agile process model is the 
+best suited process model for Software development life. 
+Software Development Life Cycle Process 
+SDLC is a process that defines the various stages involved in the development of software 
+for delivering a high-quality product. SDLC stages cover the complete life cycle of a 
+software i.e. from inception to retirement of the product. 
+Adhering to the SDLC process leads to the development of the software in a systematic 
+and disciplined manner. 
+Purpose: 
+Purpose of SDLC is to deliver a high-quality product which is as per the customer’s 
+requirement. 
+SDLC has defined its phases as, Requirement gathering, Designing, Coding, Testing, and 
+Maintenance. It is important to adhere to the phases to provide the Product in a 
+systematic manner. 
+For Example, A software has to be developed and a team is divided to work on a feature 
+of the product and is allowed to work as they want. One of the developers decides to 
+design first whereas the other decides to code first and the other on the documentation 
+part. This will lead to project failure because of which it is necessary to have a good 
+knowledge and understanding among the team members to deliver an expected 
+product. 
+SDLC Cycle 
+SDLC Cycle represents the process of developing software. 
+Below is the diagrammatic representation of the SDLC cycle: 
+Software Engineering principles & Practices Lab Manual 
+Page 7 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+SDLC Phases 
+Given below are the various phases: 
+• Requirement gathering and analysis 
+• Design 
+• Implementation or coding 
+• Testing 
+• Deployment 
+• Maintenance 
+#1) Requirement Gathering and Analysis 
+During this phase, all the relevant information is collected from the customer to develop a 
+product as per their expectation. Any ambiguities must be resolved in this phase only. 
+Business analyst and Project Manager set up a meeting with the customer to gather all 
+the information like what the customer wants to build, who will be the end-user, what 
+is the purpose of the product. Before building a product a core understanding or 
+knowledge of the product is very important. 
+For Example, A customer wants to have an application which involves money 
+transactions. In this case, the requirement has to be clear like what kind of transactions 
+will be done, how it will be done, in which currency it will be done, etc. 
+Once the requirement gathering is done, an analysis is done to check the feasibility of 
+the development of a product. In case of any ambiguity, a call is set up for further 
+discussion. 
+Once the requirement is clearly understood, the SRS (Software Requirement 
+Specification) document is created. This document should be thoroughly understood by 
+the developers and also should be reviewed by the customer for future reference. 
+#2) Design 
+In this phase, the requirement gathered in the SRS document is used as an input and 
+software architecture that is used for implementing system development is derived. 
+Software Engineering principles & Practices Lab Manual 
+Page 8 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+#3) Implementation or Coding 
+Implementation/Coding starts once the developer gets the Design document. The 
+Software design is translated into source code. All the components of the software are 
+implemented in this phase. 
+#4) Testing 
+Testing starts once the coding is complete and the modules are released for testing. In 
+this phase, the developed software is tested thoroughly and any defects found are 
+assigned to developers to get them fixed. 
+Retesting, regression testing is done until the point at which the software is as per the 
+customer’s expectation. Testers refer SRS document to make sure that the software is 
+as per the customer’s standard. 
+#5) Deployment 
+Once the product is tested, it is deployed in the production environment or first UAT 
+(User Acceptance testing) is done depending on the customer expectation. 
+In the case of UAT, a replica of the production environment is created and the customer 
+along with the developers does the testing. If the customer finds the application as 
+expected, then sign off is provided by the customer to go live. 
+#6) Maintenance 
+After the deployment of a product on the production environment, maintenance of the 
+product i.e. if any issue comes up and needs to be fixed or any enhancement is to be 
+done is taken care by the developers. 
+Software Development Life Cycle Models 
+A software life cycle model is a descriptive representation of the software development 
+cycle. SDLC models might have a different approach but the basic phases and activity 
+remain the same for all the models. 
+#1) Waterfall Model 
+Waterfall model is the very first model that is used in SDLC. It is also known as the linear 
+sequential model. 
+In this model, the outcome of one phase is the input for the next phase. Development 
+of the next phase starts only when the previous phase is complete. 
+• First, Requirement gathering and analysis is done. Once the requirement is 
+freeze then only the System Design can start. Herein, the SRS document created 
+is the output for the Requirement phase and it acts as an input for the System 
+Design. 
+• In System Design Software architecture and Design, documents which act as an 
+input for the next phase are created i.e. Implementation and coding. 
+Software Engineering principles & Practices Lab Manual 
+Page 9 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+• In the Implementation phase, coding is done and the software developed is the 
+input for the next phase i.e. testing. 
+• In the testing phase, the developed code is tested thoroughly to detect the 
+defects in the software. Defects are logged into the defect tracking tool and are 
+retested once fixed. Bug logging, Retest, Regression testing goes on until the 
+time the software is in go-live state. 
+• In the Deployment phase, the developed code is moved into production after 
+the sign off is given by the customer. 
+• Any issues in the production environment are resolved by the developers which 
+come under maintenance. 
+Advantages of the Waterfall Model: 
+• Waterfall model is the simple model which can be easily understood and is the 
+one in which all the phases are done step by step. 
+• Deliverables of each phase are well defined, and this leads to no complexity 
+and makes the project easily manageable. 
+Disadvantages of Waterfall model: 
+• Waterfall model is time-consuming & cannot be used in the short duration 
+projects as in this model a new phase cannot be started until the ongoing phase 
+is completed. 
+• 
+Software Engineering principles & Practices Lab Manual 
+Page 10 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+• Waterfall model cannot be used for the projects which have uncertain 
+• requirement or wherein the requirement keeps on changing as this model 
+expects the requirement to be clear in the requirement gathering and 
+analysis phase itself and any change in the later stages would lead to cost 
+higher as the changes would be required in all the phases. 
+Software Engineering principles & Practices Lab Manual 
+Page 11 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Agile Model 
+Agile Model is a combination of the Iterative and incremental model. This model 
+focuses more on flexibility while developing a product rather than on the 
+requirement. 
+In Agile, a product is broken into small incremental builds. It is not developed as 
+a complete product in one go. Each build increments in terms of features. The next 
+build is built on previous functionality. 
+In agile iterations are termed as sprints. Each sprint lasts for2-4 weeks. At the end 
+of each sprint, the product owner verifies the product and after his approval, it is 
+delivered to the customer. 
+Customer feedback is taken for improvement and his suggestions and enhancement 
+are worked on in the next sprint. Testing is done in each sprint to minimize the risk 
+of any failures 
+Software Engineering principles & Practices Lab Manual 
+Page 12 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Advantages of Agile Model: 
+• It allows more flexibility to adapt to the changes. 
+• The new feature can be added easily. 
+• Customer satisfaction as the feedback and suggestions are taken at every stage. 
+Disadvantages: 
+• Lack of documentation. 
+• Agile needs experienced and highly skilled resources. 
+• If a customer is not clear about how exactly they want the product to be, then 
+the project would fail. 
+Conclusion 
+Adherence to a suitable life cycle is very important, for the successful completion of the 
+Project. This, in turn, makes the management easier. 
+Different Software Development Life Cycle models have their own Pros and Cons. The 
+best model for any Project can be determined by the factors like Requirement (whether 
+it is clear or unclear), System Complexity, Size of the Project, Cost, Skill limitation, etc. 
+Software Engineering principles & Practices Lab Manual 
+Page 13 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Software Engineering principles & Practices Lab Manual 
+Page 14 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+2. Game to understand the agile process: Morning wakes up game 
+A. “WAKE UP IN THE MORNING” GAME A QUICK 
+FUN WAY TO UNDSTAND THE BASIC CONCEPT OF 
+ITERATIVE INCREMENTAL DEVLOPM 
+UNDERSTAND THE BASIC CONCEPT OF ITERATIVE INCREMENTAL DEVELOPMENT 
+“Wake up in the morning” Game – A quick fun way to understand the basic concept 
+of Iterative Incremental Development 
+A fundamental aspect of Agility is incremental and iterative development. It’s so basic 
+that when introducing Agile you usually mention this idea in the first 5 minutes. The 
+core understanding that moving to small batches significantly improves speed, quality 
+and risk management, helps you move from an all or nothing approach to a world of 
+options. 
+Step 1 – Individually list the morning activities (5 minutes): I ask people to write on 
+sticky notes the activities they did from the moment they woke up until they reached 
+the office, as many as they can. 
+It should be one activity in each sticky note and should be done individually (unless 
+people woke up together that morning …) 
+Software Engineering principles & Practices Lab Manual 
+Page 15 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Step 2 – Collaboratively grouping the activities (5 minutes) : 
+I choose a space in the room with enough place on the wall. In teams of up to 7 people 
+I ask people to take their notes and group them together under common topic that will 
+be their title. It’s a group of activities with a common goal, for example, washing and 
+refreshing can include activities such as brushing the teeth, taking a shower, going to 
+the toilets, etc. 
+Each team should place their sticky notes on the wall and organize them in the groups 
+with the topic as their title. The titles are the “backbone” activities. 
+Software Engineering principles & Practices Lab Manual 
+Page 16 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Step 3 – Order the group of activities by time (3 minutes): 
+I ask the teams to order the activities from left to right sequentially, in a way that the 
+order makes sense as a story with a beginning, a middle and an end (for example: 
+wake-up, washing, breakfast, home arrangements , kids, travel, reach the office..). 
+Software Engineering principles & Practices Lab Manual 
+Page 17 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Step 4 – Order the activities by criticality (5 minutes): 
+Now I ask the teams to prioritize the activities in each group by criticality ordered from 
+top to bottom, so that important activities are on top. 
+Briefing on this step: 
+Prioritizing is difficult when there are no guidelines, such as a certain goal we wish to 
+achieve with our product or a certain market segment or specific persona. For example, 
+if our target customers are single men under 25 with no kids, or married women with 3 
+kids over 30 — the priorities will probably be different, different activities will be 
+Software Engineering principles & Practices Lab Manual 
+Page 18 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+considered critical for each target customer. Define the goal/persona so it is easier to 
+determine the priorities. 
+Step 5 – Drama! (5 minutes): 
+And now for the drama.. I tell the group: 
+Imagine you had a very important meeting in the morning that you just cannot miss or 
+be late to. Unfortunately, the alarm clock didn’t do its job and you woke up late and 
+have only 15 minutes to get out of the house! 
+What do you do? Which part of the morning routine will you drop to fit in the minimal 
+time you have? 
+Now I ask the team to draw a horizontal line through the activities so that all the 
+activities they choose to do in such a morning are above the line and all the rest under 
+the line. 
+They need to reach the office safely and be on-time with the minimum activities as 
+possible. 
+Final Briefing: 
+The exercise demonstrates the following important concepts: 
+Software Engineering principles & Practices Lab Manual 
+Page 19 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+▪ With the constraint of time our aim is still to realize the full “value” of getting on time 
+to the office. In the process of minimizing the activities, we removed many of them in 
+each step and left the process very thin and lean but still end-to-end. 
+▪ Since we have a constraint of time, as we eventually want to be fast which means 
+minimize the time to reach value. in many cases we will go too deep in a single step and 
+not realize the full end-to-end value. in this exercise we demonstrate how it should be 
+done across the map and how in every increment we build we have the full end-to-end. 
+▪ We don’t invest equally in each step – in some steps we left only one activity and in 
+some we left more, depending on the step. Some steps where even entirely removed. 
+▪ Choosing the depth of each step is easier when the full picture is available since the 
+alternatives are visible. 
+▪ Focusing on a single activity but in the context of end-to-end value helps development 
+teams better understand the scope of the requirement. For example, preparing 
+breakfast in the context of getting out of the house in 15 minutes is totally different from 
+preparing breakfast for the family on a vacation morning. Communicating effectively the 
+context helps to make the scope more precise and to trim the less important parts of 
+the scope. 
+▪  
+Software Engineering principles & Practices Lab Manual 
+Page 20 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Software Engineering principles & Practices Lab Manual 
+Page 21 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+B.The marshmallow changes 
+• Aim: To create tallest standing marshmallow on the ground 
+• Purpose: Popular team building application. 
+• Objective: Encourages participants to work together, think creatively and solve problems collaboratively 
+• Rules: Must be a free standing 
+1. Entire marshmallow should be used 
+2. Can break the spaghetti, tape  
+3. Duration will be 18 minutes. 
+Software Engineering principles & Practices Lab Manual 
+Page 22 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+C. Paper Airplane Game 
+A good game that explores continuous improvement and Lean   
+workflow. Learning goals: Lean workflow, value stream mapping 
+Time to play: 60 minutes In 
+person or Virtual: Both 
+Number of players: 4+ players 
+Resources required: Recycled or scrap paper 
+How the game works: 
+The goal of the paper airplane game is to fold as many airplanes as possible in a given timeframe, but only one 
+person can make a fold at a time. 
+Paper Airplane game rules 
+The goal is to, as one team, make as many paper planes of the same design. The 
+rules are as follows 
+• There are 3 minutes per iteration and 5 iterations 
+• In between, there is a 1-minute retrospective 
+• The airplanes folded must be of the same design and quality. 
+• Only one person can fold at any one time. Others can do other things as needed for their design. 
+Gather the team and provide the goals and instructions. 
+Software Engineering principles & Practices Lab Manual 
+Page 23 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Ask them to agree on the design of the airplane. It can be a simple design with a few drawings that can  
+fly one meter. This includes an element of design, production, and quality testing. 
+Start the process and time the activity. 
+Let them play it out and then record the number of airplanes that have met the quality requirements. Record the 
+number of airplanes created. 
+Now time the retrospective, allowing people to change how they work in the next round. They can 
+provide a new estimate if they wish. 
+Repeat the above process for as many iterations as possible, recording the number each time. Once all 
+iterations are completed, run a debrief. You can ask questions such as 
+• Where did you notice you were waiting (waste)? 
+• What changes were made, and how did they affect the production process? 
+• What design aspects could make the flow slower or faster? 
+• How would this game differ if it was played virtually versus in person? 
+• How did quality controls play a part in this process? 
+• Did you experience the concept of flow? 
+• Which iteration stood out? 
+• How did you feel like working as a team? 
+• Did leadership change during the iterations? 
+• What did you learn from playing this game? 
+Software Engineering principles & Practices Lab Manual 
+Page 24 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+D.The Easter-egg challenge 
+Step out of your comfort zone of technical discussions, data analysis and user story writing, 
+and step into the world of Easter egg painting. Together with the Product Owners, Product 
+managers and Technical team leads, we focused today on something different, that in the end, 
+influences everything we do and stand for. productivity. While painting eggs, cutting them 
+out, checking the quality of the  delivered product seems extremely easy, the reality shows 
+that even supposedly easy tasks can become difficult and hectic when the participant’s mindset 
+is not right. 
+Software Engineering principles & Practices Lab Manual 
+Page 25 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+The challenge is simple: 
+Groups of 4 or 5 individuals per team 
+• A bunch of papers with unpainted easter eggs on them 
+• Several boxes of crayons and a some scissors 
+• Requirements from the business (preferably difficult to understand) 
+During the challenge the teams will be instructed to deliver the painted eggs according to the 
+pre-defined requirements, on time, on quality and on budget (let’s just imagine there was a 
+budget). The team will get 2 attempts in which 2 different delivery approaches will be used, 
+where the first is based on Waterfall, and the second simulates a more Agile approach. 
+Software Engineering principles & Practices Lab Manual 
+Page 26 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+While the core learnings of the challenge can be found in that an Agile mindset helps you 
+improve productivity (spoiler alert!), the challenge also shows the participants other relevant 
+daily work problems that, if not responded to well, can seriously impact your product 
+delivery. 
+3.2.1, GO! 
+Step 1: Start planning your work, appoint who paints, who has the best scissoring skills and 
+who is responsible for Quality Assurance. The teams have 3 minutes to decide who does what.
+ (3 minutes time) 
+Simulating the first phase of development using a waterfall approach, in which you would 
+write all requirements, and create the documentation for the entire project. 
+Step 2:Then it’s time to start painting, which is a 6 minute job. No iterations, just 
+start doing your job, and deliver the project all at once after the time passes. 
+Software Engineering principles & Practices Lab Manual 
+Page 27 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+(6 minute time) 
+Step 3:After all, all requirements are known, and the planning has been created to complete 
+the task in time, on quality and on budget. 
+Step 4:When after 3 minutes business requirements are suddenly changed — let’s say the 
+government has just banned the color blue — you can observe the team getting stressed out. 
+As a result we find many eggs thrown in the garbage bin, and the team starts all over again. 
+Step 5:As there is no time for evaluation during the project, the teams finish with only a few 
+eggs completed. A bit disappointed about the sudden requirement change, the teams somehow 
+aren’t quite satisfied. 
+Software Engineering principles & Practices Lab Manual 
+Page 28 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+3. Create JIRA (similar tool) account and learn interface 
+Step 1 – To download and install Jira visit the official website of Atlassian. The link to 
+the 
+ishttps://www.atlassian.com/software/jira/download?_ga=1.28526460.178747397 
+8.1 488778536 
+website 
+Step 2 – After selecting the type of Operating System in which you want to install Jira, look 
+for the Download option and click on it. You can change the operating system type by 
+clicking on the dropdown. 
+Step 3 – Once Jira is downloaded, click on the .exe file. After this, you will see that the Run 
+confirmation pop-up is displayed, click on RUN to proceed. You can refer to the screenshot below. 
+Software Engineering principles & Practices Lab Manual 
+Page 29 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Step 4 – Notice that the JIRA installation wizard would be displayed. If so, click on Next 
+Step 5 – Choose the desired installation option and then click on Next again. 
+The installation summary would be displayed with the Destination Directory, Home 
+Directory, RMI Port, HTTP Port etc. The screenshots for the same are attached below for your 
+reference. 
+Step 6 – Click on Install. JIRA will start installing. It would take a few minutes for the 
+installation to finish. 
+Software Engineering principles & Practices Lab Manual 
+Page 30 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Step 7 – Please make sure that the “Start JIRA Software 8.0.2 now” checkbox is checked 
+in order to start Jira automatically. After that click on Next, if not, it can be accessed using the 
+Windows Start Menu shortcut. 
+Step 8 – Click the Finish button. 
+Software Engineering principles & Practices Lab Manual 
+Page 31 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+i 
+Software Engineering principles & Practices Lab Manual 
+Page 32 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+How to use Jira software 
+To Create a project 
+• In the top-left corner, click the Jira home icon 
+• In the top-right corner, select Create project. 
+To Pick a template 
+The Jira template library houses dozens of templates across a variety of different 
+categories, and is designed to get your team started quickly and successfully. You can 
+choose a template from all the Jira products you own (Jira Software, Jira Service 
+Management, and Jira Work Management). Today, Jira Software offers three templates 
+To Set up your columns 
+• Navigate to your team's board by selecting Active sprints (for Scrum projects) 
+or Kanban board (for Kanban projects) in the project menu on the left 
+• Select more (•••) > Board settings in the top-right corner. 
+• Select Columns. 
+• Select Add column to add a column for each step in your team's process. 
+Software Engineering principles & Practices Lab Manual 
+Page 33 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Create an issue 
+• In the project menu, select Roadmap • Start typing, then hit enter to create 
+your first epic. 
+Invite your team 
+• In the project menu on the left, select Project settings. 
+• Select People. 
+• In the top-right corner, select Add people. 
+• Search for your team member's email address, and select Add 
+Software Engineering principles & Practices Lab Manual 
+Page 34 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+WEEK 3 
+1. Play and act agile ceremonies 
+2. Play different agile roles 
+1.Agile ceremonies 
+The four scrum ceremonies are: 
+• Sprint Planning 
+• Daily Scrum 
+• Sprint Review 
+• Sprint Retrospective 
+Sprint planning: is an event in scrum that kicks off the sprint. The purpose of sprint 
+planning is to define what can be delivered in the sprint and how that work will be 
+achieved. 
+Sprint planning is done in collaboration with the whole scrum team. 
+• Sprint Planning is used to determine what the team will accomplish in 
+the upcoming Sprint. The event itself has two parts. 
+Software Engineering principles & Practices Lab Manual 
+Page 35 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Daily Scrum : sometimes referred to as the Daily Standup, has a time-box for 15 minutes 
+or less, and is specifically for the benefit of the development team. 
+• The goal of this event is for the team to get in sync on a daily basis, allowing 
+for better collaboration and transparency. 
+• The Daily Scrum should be held at the same time each day and should not 
+include anyone outside of the Scrum Team. 
+• The Daily Standup meetings are usually time-boxed to between 5 and 15 
+minutes. 
+Sprint Review: is when the team presents their work from the Sprint to the project's 
+stakeholders. 
+• It should cover not only the work they accomplished, but also open 
+discussions around the work they were not able to complete. 
+Software Engineering principles & Practices Lab Manual 
+Page 36 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+A Sprint Review includes the following events: 
+• Attendees include the Scrum Team and key stakeholders if invited by the 
+Product Owner; 
+• The Product Owner discusses the ‘done’ and ‘what has not been done’ items of the 
+Product Backlog, 
+• The Development team elaborates the ‘done’ work, and justifies the 
+Increment, 
+• The Product Owner discusses the Product Backlog. He or she projects likely 
+target and delivery dates based on progress to date (if needed) 
+Sprint Retrospective: is the primary event in which the Scrum Team can inspect and 
+adapt their approaches based on their experiences from the previous sprints. 
+The sprint retrospective is usually held as the last activity of the sprint. It is a good 
+idea to repeat the sprint retrospective on the same day time and place. 
+Software Engineering principles & Practices Lab Manual 
+Page 37 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+• When you’re performing a sprint retrospective you want to capture any good 
+ideas that come up which can then be applied to future sprints 
+2. Different Agile Roles 
+• Product Owner – Often an executive or key stakeholder, the Product Owner has a 
+vision for the end product and a sense of how it will fit into the company’s long
+term goals. 
+• This person will need to direct communication efforts, alerting the team to major 
+developments and stepping in to course-correct and implement high- level changes 
+as necessary. 
+Software Engineering principles & Practices Lab Manual 
+Page 38 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+The product owner is a role on a product development team responsible for managing 
+the product backlog in order to achieve the desired outcome that a product development 
+team seeks to accomplish. Key activities to accomplish this include: 
+• Clearly identify and describe product backlog items in order to build a shared 
+understanding of the problem and solution with the product development team 
+• Make decisions regarding the priority of product backlog items in order to deliver 
+maximum outcome with minimum output 
+• Determine whether a product backlog item was satisfactorily delivered 
+• Ensure transparency into the upcoming work of the product development team. 
+Scrum Master – The Scrum Master is most akin to a project manager. They are guardians of 
+process, givers of feedback, and mentors to junior team members. 
+• They oversee day-to-day functions, maintain the Scrum board, check in with 
+team members, and make sure tasks are being completed on target 
+• The methodology is highly collaborative and requires efficient processes, and 
+the results of the process depend upon the expertise of the Scrum Master. 
+• Agile methodologies may have started in tech companies, but Scrum Master jobs 
+can be found in all kinds of industries and for all kinds of companies around the 
+glob 
+Software Engineering principles & Practices Lab Manual 
+Page 39 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Team Member– Team members are the makers: front- and back-end 
+engineers, copywriters, designers, videographers, you name it. 
+• Team members have varied roles and skills but all are responsible for getting 
+stuff done on time and in excellent quality. 
+• Every organization requires its employees to work together as a team to achieve 
+its goals. It is possible to have different individuals working together in a group. 
+• But they must be team-oriented because effective teamwork depends on the 
+character traits of a good team member. 
+What are the qualities of a good team member? 
+1. Having an identity. 
+2. Being committed. 
+3. Being flexible.. 
+4. You are humble. 
+5. An effective communicator. 
+6. A consistent performer. 
+7. Being objective. 
+Software Engineering principles & Practices Lab Manual 
+Page 40 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+WEEK 4 
+4a case study to understand the importance of risk management and 
+mitigation of risk 
+Retail Store Expansion 
+• ABC Retail, a successful chain of clothing store, plans to expand their operations by opening new 
+stores in different cities. The company has identifies potential associated risks with the expansion 
+• Risk identification ABC conducted a risk assessment process to identify potential risk related to the 
+expansion. This involves market trends, competitor, Strategies, regulatory compliance and supply 
+chain. 
+• Risk Analysis After identification of potential risks ABC Retail assesses the impact of each risk, 
+ABC Retail assesses the impact of each risk Example market saturation and competition are deemed 
+as high impact risk and while chain disruption are identified as low impact risk 
+• Risk Mitigation (Solutions)  
+1. Market Research and analysis: They conducted extensive market research to identify 
+locations with higher potential growth and low competitors 
+2. Diversification of supplies: Supply chain distributions, ABC retail diversifies its supplier 
+base and established alternatives sourcing options. This help them to reduce dependency on 
+single supply chain 
+3. Implementation and Monitoring: They implemented its risk management plans across their 
+expansion of project. They regularly monitored it to identify any emergency  
+Software Engineering principles & Practices Lab Manual 
+Page 41 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+4b Tools to manage and mitigate risks 
+• Logicgate is a risk management platform that enables organization to identify, assess and mitigate 
+risks effectively. 
+• This platform provides different tools for risk assessment, tracking and workflow automation by 
+centralizing risk- related data and processes 
+•   This logicgate solution includes 
+1. Enterprise risk management 
+2. Audit and control management 
+3. Risk Quantification 
+• This platform provides and help business streamline their risk management practices improve 
+decision making qualities among organization. 
+Software Engineering principles & Practices Lab Manual 
+Page 42 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+WEEK 5 
+1. Conduct warm-up activities to Ignite Design Thinking 
+1. So what are warm-ups? 
+Warm-ups can be described as exercises one normally runs right before the main 
+proceedings to help participants relax and ease people into a group activity or learning 
+situation. Warm-ups go very well with design thinking because they support many of its 
+attributes, such as being curious and having an open mindset as well as being mindful of 
+and collaborating with other people. 
+Consequently, a well-chosen warm-up can add real value to a design thinking workshop 
+or project, but then, a poorly chosen warm-up can also have the opposite effect, making 
+people feel nervous, uncomfortable and confused. So, when choosing your warm-up, 
+choose it purposefully! Here are some pointers to bare in mind: 
+Software Engineering principles & Practices Lab Manual 
+Page 43 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+A. 30 Circles 
+• Objective: With this warm-up, the designers can help to get more creativity in their thinking 
+• Learning objective: This exercise can help participants to be more confident in their creativity 
+• Participants: more than 3 
+• Duration: 5 to 10 minutes 
+• Supplies: Pen and Pencils 
+• Warm-up course: Give each participants with a prepared sheet of 30 circles and a pen 
+Give them the start go during which participants can draw into the circle 
+Transform as many as circles as possible into a recognizable objects (face, clock) 
+While results we need to pay attention to the quantity, like how many participants have filled into the 
+circles their ideas that they have used 
+Software Engineering principles & Practices Lab Manual 
+Page 44 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+2. Design thinking exercises and games 
+A.The marshmallow changes 
+• Aim: To create tallest standing marshmallow on the ground 
+• Purpose: Popular team building application. 
+• Objective: Encourages participants to work together, think creatively and solve problems collaboratively 
+• Rules: Must be a free standing 
+4. Entire marshmallow should be used 
+5. Can break the spaghetti, tape  
+6. Duration will be 18 minutes. 
+Software Engineering principles & Practices Lab Manual 
+Page 45 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+B. One thing, nine ways 
+1. Objective: This exercise is used to create and look at things from different perspective 
+2. Activity Course:  
+• Ask Everyone to grab a piece of paper and divide it into nine square by flooding it into 
+thirds, first horizontally and then vertically 
+• Grab an object from desk 
+• Ask everyone to draw nine new uses for the object 
+• With this we can see everyone sharing their ideas, also we can see who has the criest 
+and innovative idea 
+Software Engineering principles & Practices Lab Manual 
+Page 46 
+M.L.Bharatesh Polytechnic COMPUTER SCIENCE & DEPT 
+Software Engineering principles & Practices Lab Manual Page 47 
+ 
+ 
+ 
+                                          WEEK 6 
+   6a Organize role play for requirement activities  
+Role-play or role-paying is the changing of one’s behavior to assume a role, either unconsciously 
+to fill a social role, or consciously to act out an adapted. 
+Role play objectives 
+• Be very clear about what you want people to get out of the role playing experience. 
+• Clear thinking and role play preparation result in clear outcomes. 
+• People also need to trust that the role play will have the same level of challenge for 
+them and their peers. 
+ 
+ 
+Role play briefing 
+ 
+• Allow the other participants to observe the role play and give their comments 
+afterwards. 
+• Explain clearly what you want them to look out for. 
+• It is important though that the (non-professional role player) person or persons 
+involved in the role play go first. 
+ 
+Types of Role Play 
+ 
+• Individual or group can play each role as follows among developer team 
+1. Team leader 
+2. Software designer 
+3. Software tester 
+4.  Software quality assurance role 
+• Among customer team  
+1. End users 
+2. Domain expert 
+3. Project Manager 
+• Responsibilities of development team members 
+1. Elicit requirement from customer 
+2. Analyze and mode these requirements 
+3. Documents the requirements 
+4. Validate Requirements 
+• Responsibilities of Customer Team 
+1. Providing all Relevant information about their need to development team 
+2. Assuring that the resulted product or service meet their expectatio
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+6b. Identify a problem and prepare requirement document or Epics and 
+user stories 
+EPIC: 
+Develop small Retail application for online shopping 
+Story : 
+1. Login 
+“As a customer, I want to create a password on my account, so that I can login. 
+Task 
+Allow email addresses in the format name@gmail.com. 
+Verify password field id not greater than 20 characters. 
+Validated accounts can be logged into. 
+2.registration form 
+Software Engineering principles & Practices Lab Manual 
+Page 48 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+“As a customer, I want to be able to register online so, that I can start shopping 
+online”. 
+Task 
+User can only submit a form by filling in all required fields. 
+The email user provided must not be a free email. 
+Submission form same IP can only be made three times within 30 minutes. 
+User will receive a notification email after successfully registration 
+3.Changes to cart: 
+“As a customer , I want shopping cart functionallyso that I can easily purchase items online.” 
+Task 
+Able to add an item into shopping cart by entering the quality. 
+Prompted “please enter the quality” when the quality is unfilled when adding item. 
+Prompted “sorry, item is temporally out of stock” when try to add item without 
+enough stock. 
+The quality is “1” by default 
+Unable to enter non number in quality field 
+Make sure the items above are all passed in the build of firefox , chrome and edge. 
+4.Payment: 
+User story: 
+“As customer , I want to be able to payment online so that I can easily purchase 
+item in online shopping”. 
+Task 
+The user given option with various modes of payment (online payment through 
+credit/debit cards via net or mobile banking or cash on delivery) out of which the 
+chooses one. The chose mode of transaction authentication of bank details. 
+5.Logout 
+User story: 
+“As a customer , I should be able to logout from the online shopping system at any    
+time So that I can close the app”. 
+Task 
+Users can logout by pressing the logout button. 
+After pressing logout will bounce to the login page 
+Signing out will delete information indicating the identity of the user from the device. 
+5.Report generation: 
+user story: 
+Software Engineering principles & Practices Lab Manual 
+Page 49 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+“As a customer , I want to be able to report generation of the item, so that I can  help 
+to the online shopping system administrator”. 
+Task 
+After ordering for the product, the system will sent one copy of the bill to the 
+customer’s email address and another one for the system data base. 
+Bug 
+1. Shopping card screen not working properly 
+2. Issue while searching product in product search screen 
+Software Engineering principles & Practices Lab Manual 
+Page 50 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+6c Draw UML diagram for given use case 
+What is a use case diagram? 
+In the Unified Modelling Language (UML), a use case diagram can summarize the details 
+of your system's users (also known as actors) and their interactions with the system. To 
+build one, you'll use a set of specialized symbols and connectors. An effective use case 
+diagram can help your team discuss and represent: 
+• Scenarios in which your system or application interacts with people, organizations, 
+or external systems 
+Goals that your system or application helps those entities (known as actors) achieve 
+• The scope of your system 
+When to apply use case diagrams 
+• Representing the goals of system-user interactions. 
+• Defining and organizing functional requirements in a system. 
+• Specifying the context and requirements of a system. 
+• Modeling the basic flow of events in a use case. 
+• Components of use case diagram 
+•   Functionalities to be represented as a use case 
+• Actors 
+• Relationships among the use cases and actors 
+Software Engineering principles & Practices Lab Manual 
+Page 51 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Actors 
+Use Cases 
+Systems 
+Relationships 
+Actors: Who interacts with the system 
+Use Case: functionality or services provided by the system 
+Relation: Relation between actors and the system. 
+Software Engineering principles & Practices Lab Manual 
+Page 52 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Draw UML diagram for given use case 
+USE CASE 
+Activity diagram: An activity diagram is a type of Unified Modeling Language (UML) flowchart that shows the 
+flow from one activity to another in a system or process. It's used to describe the different dynamic aspects of a 
+system and is referred to as a 'behavior diagram' because it describes what should happen in the modeled system.
+ Software Engineering principles & Practices Lab Manual 
+Page 53 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Sequence diagram:  The describe the sequence of messages and interaction that happen between actors and objects    
+Actors and objects can be active only when needed or when another actor has to communicate with them 
+Software Engineering principles & Practices Lab Manual 
+Page 54 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Software Engineering principles & Practices Lab Manual 
+Page 55 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+WEEK 7 
+7a Create detailed user stories for the above identified problem 
+Online Shopping 
+Project Task: 
+Based on above scenario, you are expected to perform the following task 
+1. Identify at least one epic and seven user story from above case. Link the story to epic 
+2. Get free JIRA account and create Scrum project 
+3. Enter the Backlog (Epic, story, subtask and Bug) in JIRA 
+4. Make a release plan, by assigning stories to three sprints 
+5. Start and complete one sprint 
+6. Submit screenshot of Epic, Backlog, release plan, Story, Scrum board with task in various 
+states 
+EPIC: 
+Develop small Retail application for online shopping 
+Story : 
+3. Develop product search UI screen [description-gather product items, add in product 
+screen,create search facility for this screen] 
+Task 
+Find product items as provided by user 
+4. Develop product search service 
+5. Develop shopping CARD UI for selected product 
+6. Develop shopping CARD service 
+7. Develop searched product online order UI component 
+8. Develop searched product online order service 
+9. Develop searched product online payment UI components 
+Bug 
+4. Shopping card screen not working properly 
+5. Issue while searching product in product search screen (description-issue fixed and unit 
+testing done please procced with QA testing) 
+6. OUTPUT 
+Software Engineering principles & Practices Lab Manual 
+Page 56 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Story create: after creating story click on create button 
+7. Story 
+Software Engineering principles & Practices Lab Manual 
+Page 57 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Task: creating task into the story 1 
+Backlog 
+Software Engineering principles & Practices Lab Manual 
+Page 58 
+M.L.Bharatesh Polytechnic COMPUTER SCIENCE & DEPT 
+Software Engineering principles & Practices Lab Manual Page 59 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sprint 
+ 
+M.L.Bharatesh Polytechnic COMPUTER SCIENCE & DEPT 
+Software Engineering principles & Practices Lab Manual Page 60 
+ 
+ 
+ 
+ 
+ 
+Scrum board: scrum board in initial condition 
+ 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Scrum board with task in various states: 
+Software Engineering principles & Practices Lab Manual 
+Page 61 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Software Engineering principles & Practices Lab Manual 
+Page 62 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+7b Oranize and play plannin poker to decide on user stories 
+• At the beinnin of plannin poker, the product owner or customer reviews an aile user story and read it out 
+loudly. A user story is a eneral and informal explanation of a feature of a software that describe how it can 
+offer value to end users   
+• Step1: Hand out the cards to participants (0,1,3,5,8,12) 
+• Step2: Read the story out loud, The moderator (either the product owner or the product manaer) narrates the 
+story to the roup 
+• Step3: Discuss the story  
+Once the roup finishes listenin to the story, Everyone share their views on it 
+1. How should we handle the work 
+2. How many people are excepted to et involved 
+3. Do we have the required resources 
+4. Do we have the riht set of people 
+• Step4: Select and share 
+After the discusssion, each person will privately select a card from desk,usually it is used to show an 
+estimate of story point 
+• Step5: Reach a concensus 
+When team members shows the same card, that no turns into a conensus now the roup can move forward and 
+work on next story 
+However if the cards continue to vary then further discussions on the story will follow 
+Software Engineering principles & Practices Lab Manual 
+Page 63 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Software Engineering principles & Practices Lab Manual 
+Page 64 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+WEEK 8 
+Create sitemap and wireframe for above created user stories 
+Step-1: Download the Figma Application Through Any browser, 
+Step-2: Now install the application in the desktop 
+Step-3: Open the application and create an account using Google account 
+Step-4: Now again Login into Figma application and create a new page using new figjam, 
+Step-5: Using Clipboard, click on ellipse and choose it as square, 
+Step-6: Make some clips by pulling blocks from ellipse, 
+Step-7: arrange the blocks as shown in the above diagram. 
+Software Engineering principles & Practices Lab Manual 
+Page 65 
+M.L.Bharatesh Polytechnic COMPUTER SCIENCE & DEPT  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Software Engineering principles & Practices Lab Manual Page 59 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Software Engineering principles & Practices Lab Manual 
+Page 60 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+WEEK 9 
+9a. Create Git (similar tool) account and configure repository 
+• Step1: To create Git account, o to official web page of .GitHub .com and fill in the reisteration form  
+• Step2: give a user name and password 
+• Step 3: Make sure you have Git installed in the system 
+• To installed GIT on the system browse GIT on the oole and installed GIT according to the operating     system  
+: 
+• On your computer, you need to install Git first. The process will depend on your operating system: please 
+follow the instructions below by clicking the relevant button. 
+Software Engineering principles & Practices Lab Manual 
+Page 61 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Steps: create account in GitHub 
+Steps: Set user name and password 
+Step 4: enter mail id and continue 
+Software Engineering principles & Practices Lab Manual 
+Page 62 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Steps Create new password and continue 
+Step 6: Enter user name and continue 
+Software Engineering principles & Practices Lab Manual 
+Page 63 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Steps: Type yes 
+Software Engineering principles & Practices Lab Manual 
+Page 64 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Software Engineering principles & Practices Lab Manual 
+Page 65 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Software Engineering principles & Practices Lab Manual 
+Page 66 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Steps for Configuration through command prompt 
+1. Step1: for username Configuration 
+git config - -global user.name “    ” 
+2. Step2: for email Configuration 
+git config – -global user.email “     ” 
+Software Engineering principles & Practices Lab Manual 
+Page 67 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Once it is done create a repository on GitHub   
+What is a repository? 
+A Git repository is a virtual storage of your project.it allows you to save versions 
+of your code, which you can access when needed 
+You can think of a repository (aka a repo) as a “main folder”, everything associated 
+with a specific project should be kept in a repo for that project. Repos can have folders 
+within them, or just be separate files. 
+2. Create your own repository and project folder structure 
+Software Engineering principles & Practices Lab Manual 
+Page 68 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+To make a repository, go to Repositories/New repository - choose a concise and informative 
+name 
+that 
+has 
+no 
+spaces 
+or 
+funky 
+characters 
+in 
+it. 
+Step 1: Let’s create a new private repository. You can call it whatever you like if the name 
+is available. 
+Step 2: Click on Initialise repo with a README.md file. It’s common practice for each 
+repository to have a README.md file, 
+Step 3: We will also create a .gitignore file. This file lets Git know what kind of files should 
+not be included in the repository. 
+Once you are ready, click on Create repository. 
+Software Engineering principles & Practices Lab Manual 
+Page 69 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Software Engineering principles & Practices Lab Manual 
+Page 70 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Here is how the repository should look: 
+Software Engineering principles & Practices Lab Manual 
+Page 71 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+9b Upload the artifacts created to Git learn version control and configuration 
+management with Git 
+• Step1:  Write a hello world java program  
+• Step2: Open Command Prompt and type the Git commands 
+• cd desktop: 
+• cd folder name: 
+• git init: to create a new local git repository 
+• git add filename. Extension: to add a particular file git add .to add all 
+the files in the folder 
+• git status: shows what you have in your staging area git commit -m “  ” 
+• git remote add origin URL of remote git repository 
+• git branch: to check the branch of your git repository 
+• Git push -u origin master/main 
+• Step 3: in case remote origin already exit     
+•  git remote -v 
+• git remote remove origin 
+• git remote add origin URL OF THE REPOSITORY 
+• git push -u origin master/main (whichever is the branch) 
+Software Engineering principles & Practices Lab Manual 
+Page 72 
+M.L.Bharatesh Polytechnic COMPUTER SCIENCE & DEPT 
+Software Engineering principles & Practices Lab Manual Page 73 
+ 
+ 
+                 
+                                                                                                                                                                                                                                                          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Software Engineering principles & Practices Lab Manual 
+Page 74 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+WEEK 10 
+1. Install and configure Jenkins 
+Step 1: Setup wizard 
+On opening the Windows Installer, an Installation Setup Wizard appears, Click Next on 
+the Setup Wizard to start your installation. 
+Step 2: Select destination folder 
+Select the destination folder to store your Jenkins Installation and click Next to 
+continue. 
+Software Engineering principles & Practices Lab Manual 
+Page 75 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Step 3: Service logon credentials 
+When Installing Jenkins, it is recommended to install and run Jenkins as an independent 
+windows service using a local or domain user as it is much safer than running Jenkins using 
+LocalSystem(Windows equivalent of root) which will grant Jenkins full access to your 
+machine and services. 
+To run Jenkins service using a local or domain user, specify the domain user name and 
+password with which you want to run Jenkins, click on Test Credentials to test your domain 
+credentials and click on Next. 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+If you get Invalid Logon Error pop-up while trying to test your credentials, 
+steps explained here to resolve it. 
+Step 4: Port selection 
+Specify the port on which Jenkins will be running, Test Port button to validate 
+whether the specified port if free on your machine or not. Consequently, if the port is 
+free, it will show a green tick mark as shown below, then click on Next. 
+Step 5: Select Java home directory 
+The installation process checks for Java on your machine and prefills the dialog with 
+the Java home directory. If the needed Java version is not installed on your machine, 
+you will be prompted to install it. 
+Once your Java home directory has been selected, click on Next to continue. 
+Software Engineering principles & Practices Lab Manual 
+Page 75 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Step 6: Custom setup 
+Select other services that need to be installed with Jenkins and click on Next. 
+Software Engineering principles & Practices Lab Manual 
+Page 76 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Step 7: Install Jenkins 
+Click on the Install button to start the installation of Jenkins. 
+Additionally, clicking on the Install button will show the progress bar of installation, as shown 
+below: 
+Software Engineering principles & Practices Lab Manual 
+Page 77 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Step 8: Finish Jenkins installation 
+Once the installation completes, click on Finish to complete the installation. 
+Jenkins will be installed as a Windows Service. You can validate this by browsing the services 
+section, as shown below: 
+Software Engineering principles & Practices Lab Manual 
+Page 78 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+See the upgrade steps when you upgrade to a new release. 
+Post-installation setup wizard 
+After downloading, installing and running Jenkins, the post-installation setup wizard begins. 
+This setup wizard takes you through a few quick "one-off" steps to unlock Jenkins, customize 
+it with plugins and create the first administrator user through which you can continue 
+accessing Jenkins. 
+Unlocking Jenkins 
+When you first access a new Jenkins instance, you are asked to unlock it using an automatically- 
+generated password. 
+Step 1 
+Browse to http://localhost:8080 (or whichever port you configured for Jenkins when 
+installing it) and wait until the Unlock Jenkins page appears. 
+Software Engineering principles & Practices Lab Manual 
+Page 79 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Step 2 
+The initial Administrator password should be found under the Jenkins installation path (set 
+at Step 2 in Jenkins Installation). 
+For default installation 
+location 
+to 
+C:\Program 
+Files\Jenkins,   a 
+called initialAdminPassword can be found under C:\Program Files\Jenkins\secrets. 
+file 
+However, If a custom path for Jenkins installation was selected, then you should check that location 
+for initialAdminPassword file. 
+Software Engineering principles & Practices Lab Manual 
+Page 80 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Step 3 
+Open the highlighted file and copy the content of the initialAdminPassword file. 
+Step 4 
+On the Unlock Jenkins page, paste this password into the Administrator password field 
+and click Continue. 
+Notes: 
+● You can also access Jenkins logs in the jenkins.err.log file in your Jenkins directory 
+specified during the installation. 
+● The Jenkins log file is another location (in the Jenkins home directory) where the 
+initial   password 
+can 
+also 
+be obtained. 
+Software Engineering principles & Practices Lab Manual 
+Page 81 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+This password must be entered in the setup wizard on new Jenkins installations before you can 
+access Jenkins’s main UI. This password also serves as the default administrator account’s 
+password (with username "admin") if you happen to skip the subsequent user-creation step in the 
+setup wizard. 
+Customizing Jenkins with plugins 
+After unlocking Jenkins, the Customize Jenkins page appears. Here you can install any number of 
+useful plugins as part of your initial setup. 
+Click one of the two options shown: 
+● Install suggested plugins - to install the recommended set of plugins, which are based 
+on most common use cases. 
+● Select plugins to install - to choose which set of plugins to initially install. When you 
+first 
+If you are not sure what plugins you need, choose Install suggested plugin 
+install (or remove) additional Jenkins plugins at a later point in time via th 
+Jenkins > Manage Plugins page in Jenkins. 
+The setup wizard shows the progression of Jenkins being configured and your chosen set of 
+access the plugin selection page, the suggested plugins are selected by default. 
+. You can Manage 
+Jenkins plugins being installed. This process may take a few minutes. 
+Creating the first administrator user 
+Software Engineering principles & Practices Lab Manual 
+Page 82 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Finally, after customizing Jenkins with plugins, Jenkins asks you to create your first administrator 
+user. 
+1. When the Create First Admin User page appears, specify the details for your 
+administrator user in the respective fields and click Save and Finish. 
+2. When the Jenkins is ready page appears, click Start using Jenkins. Notes: 
+o This page may indicate Jenkins is almost ready! instead and if so, click Restart. 
+o If the page does not automatically refresh after a minute, use your web browser to 
+refresh the page manually. 
+3. If required, log in to Jenkins with the credentials of the user you just created and you 
+are ready to start using Jenkins! Troubleshooting Windows installation 
+Software Engineering principles & Practices Lab Manual 
+Page 83 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Perform the following steps below to edit the Local Security Policy of the computer you want 
+to define the ‘logon as a service’ permission: 
+1. Logon to the computer with administrative privileges. 
+2. Open the Administrative Tools and open the Local Security Policy 
+3. Expand Local Policy and click on User Rights Assignment 
+4. In the right pane, right-click Log on as a service and select properties. 
+5. Click on the Add User or Group… button to add the new user. 
+6. In the Select Users or Groups dialogue, find the user you wish to enter and click OK 
+7. Click OK in the Log on as a service Properties to save changes. 
+After completing the steps above, try logging in again with the added user. 
+2. Create a Hello world project (expt 9) 
+3.Create a Hello world project And Setup build for container image using 
+Jenkins (Hello world application) 
+How to Create a New Build Job in Jenkins 
+The freestyle build job is a highly flexible and easy-to-use option. You can use it for any type 
+of project; it is easy to set up, and many of its options appear in other build jobs. Below is a 
+step-by-step process to create job in Jenkin. 
+Step 1) Login to Jenkins 
+To create a Jenkins freestyle job, log on to your Jenkins dashboard by visiting your Jenkins 
+installation path. Usually, it will be hosted on localhost at http://localhost:8080 If you have 
+installed Jenkins in another path, use the appropriate URL to access your dashboard as shown 
+in the below Jenkins job creation example. 
+Step 2) Create New Item 
+Click on “New Item” at the top left-hand side of your dashboard. 
+Software Engineering principles & Practices Lab Manual 
+Page 84 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Step 3) Enter Item details 
+In the next screen, 
+1. Enter the name of the item you want to create. We shall use the “Hello world” for this demo. 
+2. Select Freestyle project 
+3. Click Okay 
+Step 4) Enter Project details 
+Enter the details of the project you want to test. 
+Software Engineering principles & Practices Lab Manual 
+Page 85 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Step 5) Enter repository URL 
+Under Source Code Management, Enter your repository URL. We have a test repository located at 
+https://github.com/kriru/firstJava.git 
+It is also possible for you to use a local repository. 
+If your GitHub repository is private, Jenkins will first validate your login credentials with GitHub 
+and only then pull the source code from your GitHub repository. 
+Step 6) Tweak the settings 
+Now that you have provided all the details, it’s time to build the code. Tweak the settings 
+under the build section to build the code at the time you want. You can even schedule the 
+build to happen periodically, at set times. 
+Under build, 
+1. Click on “Add build step” 
+2. Click on “Execute Windows batch command” and add the commands you want to execute 
+during the build process. 
+Software Engineering principles & Practices Lab Manual 
+Page 86 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Here, I have added the java commands to compile the java code. 
+I have added the following windows commands: 
+javac 
+HelloWorld.java 
+java HelloWorld 
+Step 7) Save the project 
+When you have entered all the data, 
+1. Click Apply 2. 
+Save the project. 
+Step 8) Build Source code 
+Now, in the main screen, Click the Build Now button on the left-hand side to build the source code. 
+Software Engineering principles & Practices Lab Manual 
+Page 87 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Step 9) Check the status 
+After clicking on Build now, you can see the status of the build you run under Build History. 
+Step 10) See the console output 
+Click on the build number and then Click on console output to see the status of the build 
+you run. It should show you a success message, provided you have followed the setup 
+properly as shown in the below Jenkins create new job example. 
+Software Engineering principles & Practices Lab Manual 
+Page 88 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+In sum, we have executed a HelloWorld program hosted on GitHub. Jenkin pulls the code from 
+the remote repository and builds continuously at a frequency you define. 
+Software Engineering principles & Practices Lab Manual 
+Page 89 
+M.L.Bharatesh Polytechnic COMPUTER SCIENCE & DEPT 
+Software Engineering principles & Practices Lab Manual Page 90 
+ 
+ 
+ 
+WEEK 11 
+11 A. Prepare test plan for user stories created using jira 
+Download zephyr plug -ins 
+ 
+ 
+ 
+ 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+11 B Prepare RTM For the user stories created 
+Software Engineering principles & Practices Lab Manual 
+Page 91 
+M.L.Bharatesh Polytechnic COMPUTER SCIENCE & DEPT 
+Software Engineering principles & Practices Lab Manual Page 92 
+ 
+ 
+                                              WEEK 12 
+ 
+             12 A Use jira or similar tool to capture agile metrics 
+ 
+• Agile metrics are measurements used in agile projects developments management to track progress, 
+productivity and quality 
+• These metrics provide insights into how well a team is performing and help identify areas for improvements 
+•  We can find these agile metrics in our projects report.  
+ 
+• Some of the agile metrics are 
+ 
+1. Sprint velocity: Amount of work done in each sprint. 
+2. Lead Time: Time taken from task initiation to completion 
+3. Defect density: No of defects per unit of work. 
+4. Sprint Report: understand the work completed or pushed back to the backlog in each sprint  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+12.B Use SonarQube to capture code quality metrics 
+➢ What is SonarQube? 
+SonarQube is an open-source platform developed by Sonar Source for continuous 
+inspection of code quality. Sonar does static code analysis, which provides a detailed 
+report of bugs, code smells, vulnerabilities, code duplications. 
+➢ Features: 
+• Can perform automatic reviews with static code analysis for many problems that 
+affect code quality. 
+• Helps maintain quality and reliability of code projects over its life-span using 
+advanced quality test metrics and graphs. 
+• Integrates seamlessly with other tools like Jenkins, Atlassian, MSBuild, etc, 
+which helps productive workflow. 
+• Supports most popular programming languages like Java, Python, JavaScript, 
+etc (along with framework support). 
+➢ ADVANTAGES FOR SONARQUBE TOOL 
+1. Architecture and Design 
+2. Unit tests 
+3. Duplicated code 
+4. Potential bugs 
+5. Complex code 
+6. Coding standards 
+7. Comments 
+➢ SonarQube For Metrics 
+• Complexity. 
+• Duplications. 
+• Issues. 
+• Maintainability. 
+• Reliability. 
+Software Engineering principles & Practices Lab Manual 
+Page 93 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+➢ How to Use SonarQube Tool For Code Quality: 
+Step 1: Download and Unzip SonarQube 
+Step 2: Run the SonarQube local server 
+Step 3: Start a new SonarQube project 
+Step 4: Setup Project properties and SonarScanner  
+Step 5: View your analysis report on Sonar Dashboard 
+➢ INSTALLATION PROCESS FOR SONAR QUBE 
+Step 1:In the browser search download sonar qube 8.9lts 
+Step 2:Click download sonar qube 
+Step 3:Scroll down and click on the sonar qube 8.9(community edition) 
+Step 4:In the computer file open sonar qube application 
+Step 5:In the solar qube application open bin 
+Step 6:IN the bin application select window –x86-64,select start sonar.bat 
+Step 7:Open start sonar.bat copy the application in CP(command prompt)coppied 
+application press enter 
+Step 8:END 
+Software Engineering principles & Practices Lab Manual 
+Page 94 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+WEEK 13 
+13 A. Organize Roleplay to understand the roles and responsibilities of QA 
+and  QC team 
+• QA Engineer: The responsibility of QA engineer is to ensure the quality of software products  by designing 
+and implementation tests, identifying and  reporting defects collaborating with developers to resolve 
+issues and continuously improving processes 
+• Test analyst: The responsibility include analyzing requirements, designing test cases exciting tests, 
+identifying defects, documenting test results and ensuring that software is defect free 
+• Test architect: the responsibility of test architect includes designing overall testing strategy and framework 
+for software project or organization, which is defining testing processes, selectin appropriate tools and 
+technologies, designing test automation framework etc. 
+• QC Inspector: responsible for inspecting products or processes to ensure that they meet quality standards 
+and specification  
+• QC technician: they conduct tests and measurements to verify the quality of materials and developed 
+products and components. 
+• Responsibilities of QC Inspector 
+1. Inspect products that they meet quality standards 
+2. Create tests for quality control of processes 
+3. Disassemble products parts to inspect them individual 
+4. Ensure product meet customer expectation 
+Software Engineering principles & Practices Lab Manual 
+Page 95 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+13 B: Audit the artifacts Created 
+• An audit is a systematic examination, review or evaluation of process, system, records to verify 
+compliance with established standards, regulations, policies etc. 
+• Create a group of 3 students, each group will perform task of internal and external audit 
+• Internal audit: first party audit is performed by the employee of an organization 
+• External audit: second party audit is performed by some other organization who has a business 
+relationship with the auditing organization. The auditors are typically customers, supplier, 
+partners, or regulator of audited organization which has a direct contractual relationship or 
+business interest. 
+• Third party audit: it is an independent assessment conducted by external organization that has no 
+direct firm. These audit are typically conducted by certification bodies, regulatory agencies etc.   
+Software Engineering principles & Practices Lab Manual 
+Page 96 
+M.L.Bharatesh Polytechnic 
+COMPUTER SCIENCE & DEPT 
+Software Engineering principles & Practices Lab Manual 
+Page 97 
